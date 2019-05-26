@@ -1,0 +1,37 @@
+img{
+	float: left;
+	height: 100px;
+}
+#top1{
+	font-family: Arial;
+	font-size: 30px;
+	margin-left: 300px;
+	text-shadow: 4px 4px;
+	color: orange;
+}
+#top2{
+	font-family: Arial;
+	font-size: 30px;
+	margin-left: 300px;
+	text-shadow: 4px 4px;
+	color: orange;
+}
+#mau1{
+	color: red;
+}
+*{
+	margin: 0;
+}
+#container{
+	margin: 0 auto;
+	width: 1000px;
+	border: 1px solid black;
+	border-radius: 25px;
+	box-shadow: 5px 5px 0 0;
+	height: 300px;
+	background-color: white;
+	margin-top: 30px;
+}
+body{
+	background: red;
+}

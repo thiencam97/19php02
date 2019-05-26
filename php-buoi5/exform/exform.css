@@ -1,0 +1,18 @@
+#container {
+	width: 800px;
+	height: 500px;
+	margin: 0 auto;
+}
+.sao {
+	color: red;
+}
+p {
+	font-weight: bold;
+}
+#login {
+	margin-left: 150px;
+}
+.hop {
+	width: 80%;
+	margin-top: 10px;
+}
