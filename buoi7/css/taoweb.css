@@ -1,0 +1,12 @@
+img{
+	float: left;
+	height: 80px;
+	width: 200px;
+}
+#top1{
+	font-family: Arial;
+	font-size: 30px;
+	margin-left: 300px;
+	text-shadow: 4px 4px;
+	color: orange;
+}
